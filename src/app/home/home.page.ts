@@ -17,4 +17,4 @@ export class HomePage implements OnInit {
 
 }
 
-/* End of code */
+/* End of logic */

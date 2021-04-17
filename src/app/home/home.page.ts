@@ -17,4 +17,3 @@ export class HomePage implements OnInit {
 
 }
 
-/* End of logic */

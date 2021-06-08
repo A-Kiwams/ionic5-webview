@@ -1,7 +1,7 @@
 # How to convert website into an app using ionic5-webview
 # Website must be responsive to perfectly work
 
-Download or clone project
+Download or clone projec
 
 Run npm install to install dependencies 
 

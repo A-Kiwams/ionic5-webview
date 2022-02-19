@@ -11,7 +11,7 @@ export class HomePage implements OnInit {
 
   constructor(public navCtrl: NavController,private iab: InAppBrowser) {}
   ngOnInit(){
-    const browser = this.iab.create('https://google.com/','_self',{location:'no'});
+    const browser = this.iab.create('https://samplesite.com/','_self',{location:'no'});
 
   }
 

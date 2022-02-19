@@ -1,4 +1,4 @@
-# How to convert website into an app using ionic5-webview
+# Convert any website into an app using ionic5-webview
 # Website must be responsive to perfectly work
 
 Download or clone project

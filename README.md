@@ -19,7 +19,9 @@ This is because Node.js is preventing you from using a feature that OpenSSL remo
 
 This can be fixed in 2 possible ways:
 
-1. Update Node.js to the latest stable release
-2. Use --openssl-legacy-provider optionOpen: This means instaed of running "ionic serve", run "set NODE_OPTIONS=--openssl-legacy-provider && npm run start" instead and the application will load.
+1. Update Node.js to the latest stable version
+2. Use --openssl-legacy-provider option: This means instaed of running "ionic serve", run "set NODE_OPTIONS=--openssl-legacy-provider && npm run start" instead and the application will load.
+
+- Open an issue if the above does not solve the problem
 
 Tutorials on [Blog4Dev website](https://www.blog4dev.com/convert-website-into-an-app/)
